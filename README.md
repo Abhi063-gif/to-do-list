@@ -1,2 +1,4 @@
 # to-do-list
-Task two of the internship which was to design an interactive to-do list using HTML,CSS,JS
+This project is a feature-rich, responsive To-Do List web application built entirely with Vanilla JavaScript, HTML5, and CSS3 - no frameworks or libraries required. Designed with modern web standards and user experience in mind, this app provides a clean, intuitive interface for managing daily tasks and staying organized.
+
+The application features a beautiful gradient-based design with glass-morphism effects, smooth animations, and a mobile-first responsive layout that works seamlessly across all devices. Users can effortlessly add new tasks, mark them as complete or incomplete, edit existing tasks inline, and delete unwanted items with satisfying visual feedback. The app includes intelligent filtering options (All, Pending, Completed) and provides real-time statistics showing total tasks and completion progress.  
